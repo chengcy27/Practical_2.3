@@ -1,5 +1,5 @@
 package com.example.colormyviews
-
+//
 import android.graphics.Color
 import android.os.Bundle
 import android.view.View
